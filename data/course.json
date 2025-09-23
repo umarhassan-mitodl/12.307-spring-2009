@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ]
+  ],
+  "legacy_uid": "38e5a6e0-41cd-ff64-0f51-d6e36f618152",
+  "instructors": {
+    "content": [
+      "681a965d-37cd-841b-35a8-16c06d3d7d8a",
+      "c5a2a68f-9042-cb5b-47ff-8c95e2b50daa"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ccde7941-ad74-114d-54bf-6b34292748a3",
+    "website": "12-307-weather-and-climate-laboratory-spring-2009"
+  },
+  "course_title": "Weather and Climate Laboratory",
+  "course_description": "Course 12.307 is an undergraduate course intended to illustrate, by means of 'hands on' projects, the basic dynamical and physical principles that govern the general circulation of the atmosphere and ocean and the day to day sequence of weather events.\u00a0 The course parallels the content of the new undergraduate textbook _Atmosphere, Ocean and Climate Dynamics_ by John Marshall and R. Alan Plumb.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.307",
+  "course_image_thumbnail": {
+    "content": "3935f478-9bb6-e356-b3c4-6b0d176de21b",
+    "website": "12-307-weather-and-climate-laboratory-spring-2009"
+  },
+  "learning_resource_types": [
+    "Projects",
+    "Activity Assignments"
+  ],
+  "site_uid": "28b249f2-a8e8-4ae5-a915-61a69c39c160",
+  "site_short_id": "12.307-spring-2009",
+  "site_url_path": "courses/12-307-weather-and-climate-laboratory-spring-2009",
+  "title": "Course Metadata"
+}
