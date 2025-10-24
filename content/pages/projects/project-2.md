@@ -25,11 +25,11 @@ Notes on relevant theory: thermal wind ({{% resource_link "b5b2713a-ee98-4296-06
 
 ## Tank Experiments
 
-You can read about the experiment in the Weather in a Tank project: {{% resource_link "8b58d819-66ba-4d90-af92-fed191e77476" "Fronts: An Introduction" %}}
+You can read about the experiment in the Weather in a Tank project: [Fronts: An Introduction](http://weathertank.mit.edu/links/projects/fronts-an-introduction)
 
 ## Atmospheric Data
 
-Relevant Notes at the Weather in a Tank Web site: {{% resource_link "45612e1c-b7fa-4dc3-ae61-e5b9afeb83c1" "The Polar Front" %}} and {{% resource_link "22ecb9d1-caaa-40b0-8096-120c060c6a00" "Synoptic-scale Fronts" %}}
+Relevant Notes at the Weather in a Tank Web site: [The Polar Front](http://weathertank.mit.edu/links/projects/fronts-an-introduction/fronts-atmosphere-the-polar-front) and [Synoptic-scale Fronts](http://weathertank.mit.edu/links/projects/fronts-an-introduction/fronts-atmosphere-synoptic-scale-fronts)
 
 ### Polar Front
 
@@ -41,9 +41,9 @@ Mid-latitude cyclones and the polar front
 
 Instantaneous fields
 
-1) Plot the 500 mb temperature over the Northern Hemisphere, using {{% resource_link "af17f4d8-2b45-459d-a41b-c15d89fed5d2" "GDCNTR" %}} (area: nhem)
+1) Plot the 500 mb temperature over the Northern Hemisphere, using [GDCNTR](https://www.unidata.ucar.edu/software/gempak/man/prog/gdcntr.html) (area: nhem)
 
-2) Using the same date, plot the Southern Hemisphere 500 mb temperature: using {{% resource_link "af17f4d8-2b45-459d-a41b-c15d89fed5d2" "GDCNTR" %}} (area: shem)
+2) Using the same date, plot the Southern Hemisphere 500 mb temperature: using [GDCNTR](https://www.unidata.ucar.edu/software/gempak/man/prog/gdcntr.html) (area: shem)
 
 3) Compare your plots to the appropriate satellite image
 
@@ -51,17 +51,17 @@ Instantaneous fields
 
 Warm and cold fronts
 
-3) Find the corresponding {{% resource_link "f78b2cbb-d47d-4704-be7f-ff37483083af" "Surface Analysis" %}}
+3) Find the corresponding [Surface Analysis](http://weather.unisys.com/archive/sfc_map/)
 
 - Suggested dates: 11/22/07 (18z), 2/6/08 (18z), 3/2/08 (18z), 12/15/08 (00z), 3/11/09 (00z)
 
-4) Plot the 850 mb temperature using {{% resource_link "963a30fd-e0b6-43e2-ae66-fc5626a6fc9a" "GDCNTR" %}}
+4) Plot the 850 mb temperature using [GDCNTR](http://cmpo4.mit.edu/gempk/gdcntr.asp)
 
 - Suggested changes — GDFILE: regional, GLEVEL: 850, GFUNC: tmpc, CINT: 2
 - To zoom in, pick state in the center of interest – enter the state abbreviation in GAREA with a dash at the end, e.g. MA - (the dash is to zoom out)
 
-5) Using {{% resource_link "3d8664b2-5cd9-4411-b99c-bf2fe94debe2" "gdcross" %}} might be helpful in determining the slope of the front, - gfunc=hght; cint=200 (height is in meters)
+5) Using [gdcross](https://www.unidata.ucar.edu/software/gempak/man/prog/gdcross.html) might be helpful in determining the slope of the front, - gfunc=hght; cint=200 (height is in meters)
 
 Other links:
 
-- {{% resource_link "2106e2ad-4a9a-44ac-8ca7-b06790762016" "Satellite images (Naval Research Laboratory- Monterey)" %}}
+- [Satellite images (Naval Research Laboratory- Monterey)](https://www.nrl.navy.mil/News-Media/Images/igsearch/Satellite/igsort/UploadDate/)

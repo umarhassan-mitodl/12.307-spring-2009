@@ -29,15 +29,15 @@ Convection in a compressible atmosphere ({{% resource_link "1caad38c-7419-53e0-3
 
 ## Tank Experiment
 
-A description of the {{% resource_link "db15bbc3-a64f-4319-a13a-e407d27d58b2" "Convection Experiment" %}} can be found at the Weather in a Tank Web site
+A description of the [Convection Experiment](http://weathertank.mit.edu/links/projects/convection-introduction/convection-how-to) can be found at the Weather in a Tank Web site
 
 ## Atmospheric Data
 
 ### Dry convection
 
-Example: Aberdeen, SD July 15-16, 2006 - {{% resource_link "5fcd17dc-2d62-47ef-ae29-9acd09f25c2b" "Surface Map" %}}
+Example: Aberdeen, SD July 15-16, 2006 - [Surface Map](http://weather.unisys.com/archive/sfc_map/0607/06071600.gif)
 
-Case Study: Yuma, AZ June 18, 2007 - see {{% resource_link "04c5bcf5-57c4-4e95-aa31-3d99b29dfe30" "Surface Map" %}}
+Case Study: Yuma, AZ June 18, 2007 - see [Surface Map](http://weather.unisys.com/archive/sfc_map/0706/07061800.gif)
 
 Data:
 
@@ -46,16 +46,16 @@ Data:
 
 Create your own plots:
 
-- Inspect archive of {{% resource_link "84704257-bf79-4c15-91d6-46f008dc09ca" "US\_satellite Images" %}} {{% resource_link "f78b2cbb-d47d-4704-be7f-ff37483083af" "US\_surface Maps" %}} to choose the appropriate examples
+- Inspect archive of [US\_satellite Images](http://weather.unisys.com/archive/sat_ir) [US\_surface Maps](http://weather.unisys.com/archive/sfc_map/) to choose the appropriate examples
 
 ### Moist convection
 
 Example: Tallahassee, FL, April 14, 2008
 
-- {{% resource_link "eedb37c0-6229-4f23-8ec9-3992c4b00276" "Surface Map" %}} - {{% resource_link "e8997ae4-37ed-4c0d-8303-b05099ba9ad3" "Current IR Satellite Image" %}} - {{% resource_link "32502b27-f391-41b6-b843-13cfbbf3c653" "Archived IR Satellite Image" %}}
+- [Surface Map](http://weather.unisys.com/archive/sfc_map/0904/09041400.gif) - [Current IR Satellite Image](http://weather.unisys.com/satellite/sat_ir_us_loop-12.html) - [Archived IR Satellite Image](http://weather.unisys.com/archive/sat_ir/0904/09041400.gif)
 
 Case Study: Charleston, SC April 13, 2008
 
 Other links:
 
-- {{% resource_link "2106e2ad-4a9a-44ac-8ca7-b06790762016" "Satellite images (Naval Research Laboratory- Monterey)" %}}
+- [Satellite images (Naval Research Laboratory- Monterey)](https://www.nrl.navy.mil/News-Media/Images/igsearch/Satellite/igsort/UploadDate/)
