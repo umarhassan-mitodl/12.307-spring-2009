@@ -44,4 +44,4 @@ There are four projects each of which takes approximately 3 weeks to complete:
 
 {{% resource_link 33273116-1eae-d045-a1db-6ee09905cec3 "Project 4: General Circulation" %}}
 
-Some of the project pages link to the "{{% resource_link "bf361e0d-dfe5-4b3f-b037-67a370c30fb1" "Weather in a Tank" %}}" Web site, an NSF-funded project in which curricular materials that combine atmospheric data and laboratory fluid experiments are being developed in the teaching of meteorology, oceanography and climate at the undergraduate level.
+Some of the project pages link to the "[Weather in a Tank](http://weathertank.mit.edu/)" Web site, an NSF-funded project in which curricular materials that combine atmospheric data and laboratory fluid experiments are being developed in the teaching of meteorology, oceanography and climate at the undergraduate level.
